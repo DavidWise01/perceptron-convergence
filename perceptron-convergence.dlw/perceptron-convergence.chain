@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 967
+slug  : perceptron-convergence
+seal  : d0b665716d924e726e2487af56cefc0e5da8fcdfdc49722b05c770c9fcc3e7c3
+prev  : 3d4911e5eed4b0db8a1e4c86ad4fce50ae4d23babf9e45876f5373123cd82e95
+link  : 2773af1e8d4761894b91a36f458b9169dcd3614e49dab4979402edaa67619a79
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
